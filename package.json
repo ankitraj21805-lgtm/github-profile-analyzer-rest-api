@@ -1,0 +1,22 @@
+{
+  "name": "github-profile-analyzer",
+  "version": "1.0.0",
+  "description": "REST API to analyze GitHub profiles — fetches public data, calculates profile scores, and generates improvement suggestions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["github", "api", "express", "nodejs", "profile-analyzer"],
+  "author": "Ankit Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
