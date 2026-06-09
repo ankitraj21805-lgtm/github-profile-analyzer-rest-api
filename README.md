@@ -17,6 +17,32 @@ Built without a database — pure GitHub REST API integration.
 
 ---
 
+## 🌐 Live API Demo
+
+Base URL:
+
+https://github-profile-analyzer-rest-api.onrender.com
+
+### Health Check
+
+https://github-profile-analyzer-rest-api.onrender.com/api/health
+
+### Analyze GitHub Profile
+
+https://github-profile-analyzer-rest-api.onrender.com/api/github/ankitraj21805-lgtm
+
+### Get Repositories
+
+https://github-profile-analyzer-rest-api.onrender.com/api/github/ankitraj21805-lgtm/repos
+
+### Get Top Languages
+
+https://github-profile-analyzer-rest-api.onrender.com/api/github/ankitraj21805-lgtm/languages
+
+### Get Profile Score
+
+https://github-profile-analyzer-rest-api.onrender.com/api/github/ankitraj21805-lgtm/score
+
 ## Tech Stack
 
 | Tool | Purpose |
